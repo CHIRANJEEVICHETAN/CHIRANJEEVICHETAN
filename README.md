@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm CHETAN B R</h1>
 <h3 align="center">I am a passionate and dedicated student of Information Technology at T. John Institute of Technology, Bangalore, with a strong enthusiasm for front-end development and a commitment to learning back-end technologies. Currently, I am working on Data Structures and Algorithms with C++ and the MERN stack, and I continuously expand my knowledge in HTML5, C, C++, Java, and Python.</h3>
 
-<p align="left"> <a href="https://twitter.com/si__curious__fi" target="blank"><img src="https://img.shields.io/twitter/follow/si__curious__fi?logo=twitter&style=for-the-badge" alt="si__curious__fi" /></a> </p>
-
 - 🔭 I’m currently working on [Software_Testing_using_selenium-python](https://github.com/CHIRANJEEVICHETAN/Software_Testing_using_selenium-python)
 
 - 🌱 I’m currently learning **Python with Django, MERN stack, DSA with C++, AngularJS, AI & ML with python, PHP**
